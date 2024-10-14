@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm about to graduate with my doctoral degree in Computer Science. During my studies I focused on scaling-up decision making under uncertainty. In my past life, I was a Software Engineer.
+        I'm about to graduate with my doctoral degree in Computer Science. During my studies I focused on scaling up decision-making under uncertainty. In my past life, I was a Software Engineer.
 
         I'm excited about Systems for Machine Learning, Machine Learning Systems, Bayesian Optimization, and Gaussian Processes.
         
