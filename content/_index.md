@@ -37,7 +37,7 @@ sections:
       text: |-
         I'm about to graduate with my doctoral degree in Computer Science. During my studies I focused on scaling up decision-making under uncertainty. In my past life, I was a Software Engineer.
 
-        I'm excited about Systems for Machine Learning, Machine Learning Systems, Bayesian Optimization, and Gaussian Processes.
+        I'm excited about Machine Learning Systems, Machine Learning for Systems, Bayesian Optimization, and Gaussian Processes.
         
         Please reach out to collaborate or for job opportunities.
     design:

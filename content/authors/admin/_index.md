@@ -37,8 +37,8 @@ profiles:
 
 
 interests:
-  - Machine Learning for Systems
   - Machine Learning Systems
+  - Machine Learning for Systems
   - Bayesian Optimization
   - Gaussian Processes
 
