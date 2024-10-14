@@ -31,7 +31,7 @@ profiles:
     url: 'mailto:mohitr@comp.nus.edu.sg.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/mohitrajpal
+    url: https://www.linkedin.com/in/mohit-rajpal
   - icon: academicons/google-scholar
     url: https://scholar.google.com.sg/citations?user=qUvSFVkAAAAJ&hl=en
 
@@ -48,7 +48,7 @@ education:
     date_start: 2018-08-01
     date_end: 2024-12-31
     summary: |
-      Thesis: Scaling up decision-making under uncertainty [Assistant Proffesor Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/cs/people/lowkh/).
+      Thesis: Scaling up decision-making under uncertainty [Assistant Proffesor Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/cs/people/lowkh/)
   - area: MSc Computer Science
     institution: Columbia University
     date_start: 2015-08-01
